@@ -9,5 +9,5 @@ This repo holds the Source SVG for the graphics and assets specifically designed
 [![pdf-mod](images/pdf-mod/pdf-mod.png)](https://github.com/fedoradesign/fedoramagazine-images/tree/master/images/pdf-mod/)
 [![5TFTW](images/5TFTW/5TFTW.png)](https://github.com/fedoradesign/fedoramagazine-images/tree/master/images/5TFTW/)
 [![chevron](images/chevron/chevron.png)](https://github.com/fedoradesign/fedoramagazine-images/tree/master/images/chevron/)
-[![blueprint](images/blueprint/bleuprint.png)](https://github.com/fedoradesign/fedoramagazine-images/tree/master/images/blueprint/)
+[![blueprint](images/blueprint/blueprint.png)](https://github.com/fedoradesign/fedoramagazine-images/tree/master/images/blueprint/)
 [![diagram](images/diagram/diagram.png)](https://github.com/fedoradesign/fedoramagazine-images/tree/master/images/diagram/)
